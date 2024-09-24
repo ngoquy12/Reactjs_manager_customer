@@ -1,0 +1,13 @@
+.active {
+  background-color: rgb(42, 42, 230);
+  color: #fff;
+}
+
+.active:hover {
+  background-color: rgb(52, 52, 234);
+}
+
+.disable {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
